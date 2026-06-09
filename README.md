@@ -1,6 +1,6 @@
 # Thalal Hassan
 
-## Senior Backend Engineer • Go • Node.js • Distributed Systems
+## Senior Software Engineer • Go • Node.js • React.js • Distributed Systems
 
 > 5+ years building production-grade backend systems — from high-concurrency APIs to AI-integrated microservices platforms.
 
@@ -30,11 +30,11 @@ My work spans API design, database modeling, containerized deployments, service 
 - Low-Code Application Platform
   - Multi-tenant, multi-service platform enabling enterprises to create and deploy software with minimal coding.
 
+- E-Learning Platform
+  - Built clean backend REST APIs with Node.js and Express, and developed the admin management dashboard using React.js.
+
 - E-Commerce Backend (Go)
   - High-performance backend infrastructure focused on type-safe database access, Redis caching, and clean service boundaries.
-
-- School Management System
-  - Clean Architecture-based Go system with RBAC and relational data modeling.
 
 - Shopify Analytics Platform
   - Data synchronization pipelines and analytical REST APIs for e-commerce reporting.

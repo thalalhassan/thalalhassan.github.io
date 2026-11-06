@@ -1,7 +1,3 @@
-# Thalal Hassan — Cinematic Portfolio
-
-A responsive, dark editorial portfolio built with React, TypeScript, Vite, GSAP, Lenis and Lucide.
-
 ## Run locally
 
 Requirements: Node.js 20+ and pnpm.

@@ -41,10 +41,10 @@ export default function Hero() {
             </a>
           </div>
           <div className="hero-socials">
-            <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub">
+            <a href="https://github.com/thalalhassan" target="_blank" rel="noreferrer" aria-label="GitHub">
               <Github size={17} />
             </a>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/thalalhassan" target="_blank" rel="noreferrer" aria-label="LinkedIn">
               <Linkedin size={17} />
             </a>
             <span className="mono">GO · SYSTEMS · CLOUD</span>

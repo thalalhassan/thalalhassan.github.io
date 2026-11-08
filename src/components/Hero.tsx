@@ -34,7 +34,7 @@ export default function Hero() {
           </p>
           <div className="hero-actions">
             <a className="button button--primary" href="#work">
-              EXPLORE MY WORK <ArrowUpRight size={16} />
+              EXPLORE ME <ArrowUpRight size={16} />
             </a>
             <a className="button button--text" href="#contact">
               GET IN TOUCH <ArrowDown size={15} />

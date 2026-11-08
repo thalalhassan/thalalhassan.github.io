@@ -1,7 +1,7 @@
 import { useMotion } from "./hooks/useMotion";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Projects from "./components/Projects";
+// import Projects from "./components/Projects";
 import About from "./components/About";
 import Expertise from "./components/Expertise";
 import Contact from "./components/Contact";
@@ -16,7 +16,7 @@ export default function App() {
         <Hero />
         <About />
         <Expertise />
-        <Projects />
+        {/* <Projects /> */}
         <Contact />
       </main>
       <footer className="site-footer mono">
